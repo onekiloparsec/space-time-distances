@@ -1,0 +1,5 @@
+name: minial-environment
+channels:
+  - conda-forge
+dependencies:
+  - numpy
